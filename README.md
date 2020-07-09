@@ -1,16 +1,25 @@
 # unsplash_bloc
 
-A new Flutter project.
+Flutter Unsplash API Wrapper
 
-## Getting Started
+I'm just learning flutter_bloc and decided to make this simple app.
 
-This project is a starting point for a Flutter application.
+<table>
+    <tbody>
+        <tr>
+            <td><img src="https://i.ibb.co/kXyxjWf/Screenshot-20200709-161655.jpg"></td>
+            <td><img src="https://i.ibb.co/9vsM7hk/Screenshot-20200709-161804.jpg"></td>
+            <td><img src="https://i.ibb.co/60z9GcX/Screenshot-20200709-162105.jpg"></td>
+        </tr>
+    </tbody>
+  </table>
 
-A few resources to get you started if this is your first Flutter project:
+Note : This app isn't done yet.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Installation
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone this project
+2. Create Unsplash developer account : https://unsplash.com/oauth/applications
+3. Copy your api key to src/utils/Constants.dart
+4. Read though full documentation here https://unsplash.com/documentation
+
